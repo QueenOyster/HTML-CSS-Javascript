@@ -4,3 +4,4 @@
 * [null vs undefined](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/NullUndefined.js)
 * [symbol](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Symbol.js)
 * [number, boolean](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Types.js)
+* [Changing Datatypes](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/ChangeDatatype.js)
