@@ -1,3 +1,6 @@
 # HTML-CSS-Javascript
 ## Javascript(VanillaJS)
-* [let](https://github.com/QueenOyster/HTML-CSS-Javascript/commit/951c33632c03f1fbcc1a699ffd1e30896a3fb18a)
+* [let vs const](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/LetConst.js)
+* [null vs undefined](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/NullUndefined.js)
+* [symbol](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Symbol.js)
+* [number, boolean](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Types.js)
