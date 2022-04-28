@@ -5,3 +5,5 @@
 * [symbol](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Symbol.js)
 * [number, boolean](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Types.js)
 * [Changing Datatypes](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/ChangeDatatype.js)
+* [Operators](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Operators.js)
+* [Conditionals](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Conditional.js)
