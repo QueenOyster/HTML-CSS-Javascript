@@ -19,3 +19,5 @@ Const: 재선언 불가능, 재할당 불가능
 const testValue1 = 1;
 // 재선언 불가능 -> testValue1 = 2; (TypeError)
 console.log(testValue1);
+
+// var보다는 let과 const를 사용할 것
