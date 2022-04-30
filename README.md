@@ -8,4 +8,7 @@
 * [Operators](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Operators.js)
 * [Conditionals](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Conditional.js)
 * [Function](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Funtion.js)
-* [Object](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Object.js)
+* [Literal Object, Getter & Setter](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Object.js)
+* [Class & Constructor](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/ClassConstructor.js)
+* [hasOwnProperty](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/HasOwnProperty.js)
+* [Inheritance & Polymorphism](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/InheritancePolymorphism.js)
