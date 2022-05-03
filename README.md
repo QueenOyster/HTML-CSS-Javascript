@@ -12,3 +12,6 @@
 * [Class & Constructor](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/ClassConstructor.js)
 * [hasOwnProperty](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/HasOwnProperty.js)
 * [Inheritance & Polymorphism](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/InheritancePolymorphism.js)
+* [ArrayBasic](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/ArrayBasic.js)
+* [ArrayManipulate](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/ArrayManipulate.js)
+* [Iteration](https://github.com/QueenOyster/HTML-CSS-Javascript/blob/main/VanillaJS/Iteration.js)
